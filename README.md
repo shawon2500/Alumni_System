@@ -1,4 +1,4 @@
-# IIT-Alumni_System
+# IIT-Alumni-System
 Alumni System using Java & Mysql
 
 **Abstract:**
